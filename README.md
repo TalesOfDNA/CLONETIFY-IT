@@ -20,9 +20,12 @@ You can run this python script from terminal but you will need the following lib
 
 From Terminal: python Gui2A.py 
 
-### Screenshot of Main Interface and General Functionality
+### Main Interface 
 
-<img src="images/1.png">
+<img src="images/1.png"
+      alt="Home Screen"
+      style="float: left; margin-right: 10px;"
+      width="200"/>
 
 
 
