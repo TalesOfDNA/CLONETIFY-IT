@@ -1,7 +1,7 @@
 # CLONETIFY-IT
 
-## Created by Mayra Banuelos @TalesOfDNA
-   ### *Research Assistant at Brown University and Post-Bac Researcher at San Francisco State University. 
+## Created by Mayra Banuelos @TalesOfDNA.  
+### *Research Assistant at Brown University and Post-Bac Researcher at San Francisco State University.* 
 
    Sample videos and images are provided.
 
