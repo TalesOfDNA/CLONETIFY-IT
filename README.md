@@ -25,7 +25,7 @@ From Terminal: python Gui2A.py
 <img src="images/1.png"
       alt="Home Screen"
       style="float: left; margin-right: 10px;"
-      width="500"/>
+      width="700"/>
 
 
 
