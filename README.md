@@ -1,8 +1,12 @@
 # CLONETIFY-IT
 
-## Created by Mayra Banuelos.
+### Created by Mayra Banuelos @TalesOfDNA
 
-In order to run this program you need to install PyQt4 and all its dependencies, Numpy, Matplotlib.
+### Researcher at Brown University
+
+### Post-Bac Researcher at San Francisco State University
+
+In order to run this program you need to install PyQt4 and all its dependencies, Numpy, Matplotlib, Scipy, OpenCV, NdImage, Imutils 
 
 Run Gui2A.py to get to the main interface. 
 
