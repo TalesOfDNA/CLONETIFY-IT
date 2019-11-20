@@ -6,8 +6,24 @@
 
 #### Post-Bac Researcher at San Francisco State University
 
-In order to run this program you need to install PyQt4 and all its dependencies, Numpy, Matplotlib, Scipy, OpenCV, NdImage, Imutils 
+   Sample videos and images are provided.
 
-Run Gui2A.py to get to the main interface. 
+### Install Python Libraries
+You can run this python script from terminal but you will need the following libraries: 
+  - PyQt4
+  - Numpy
+  - Matplotlib
+  - Scipy 
+  - OpenCV
+  - NdImage
+  - Imutils 
 
-Sample videos and images are provided.
+### Running the Program
+
+From Terminal: python Gui2A.py 
+
+This takes you to the main interface:
+
+
+
+
