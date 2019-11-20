@@ -2,10 +2,10 @@
 
 ## Created by Mayra Banuelos @TalesOfDNA.  
 
-### *Research Assistant at Brown University and \n Post-Bac Researcher at San Francisco State University.* 
+### *Research Assistant at Brown University and Post-Bac Researcher at SFSU.* 
 
 ## Introduction
-This program was created using Python 2.7 and the PyQt4 Library for user interface. Since Python 2.7 will soon stop being maintained, I am currently working on translating the code to Python 3 and PyQt5.
+The backend of this program was created using Python 2.7 and the PyQt4 Library for the user interface. Since Python 2.7 will soon stop being maintained, I am currently working on translating the code to Python 3 and PyQt5. General functionality is shown below. The interface is very user friendly. As long as you have the required libraries in your system, you should be able to use without any issues. 
 
 ## Install Python Libraries.
 You can run this python script from terminal but you will need to install the following libraries: 
