@@ -1,9 +1,7 @@
 # CLONETIFY-IT
 
-### Created by Mayra Banuelos @TalesOfDNA
-
+## Created by Mayra Banuelos @TalesOfDNA
 #### Research Assistant at Brown University
-
 #### Post-Bac Researcher at San Francisco State University
 
    Sample videos and images are provided.
@@ -22,7 +20,10 @@ You can run this python script from terminal but you will need the following lib
 
 From Terminal: python Gui2A.py 
 
-This takes you to the main interface:
+### Screenshot of Main Interface and General Functionality
+
+<img src="images/1.png">
+
 
 
 
