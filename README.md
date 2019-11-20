@@ -20,14 +20,38 @@ You can run this python script from terminal but you will need the following lib
 
 From Terminal: python Gui2A.py 
 
-### Main Interface 
-
+### User Interface 
 <img src="images/1.png"
       alt="Home Screen"
       style="float: left; margin-right: 10px;"
       width="700"/>
 
+### Cell Counting with Low Resolution Images
+<img src="images/2.png"
+      alt="Low Res Cell Count"
+      style="float: left; margin-right: 10px;"
+      width="700"/>
+      
+### Cell Counting in Video HD     
+<img src="images/3.png"
+      alt="Home Screen"
+      style="float: left; margin-right: 10px;"
+      width="700"/>
 
-
-
-
+### Cell Tagging     
+<img src="images/4.png"
+      alt="Home Screen"
+      style="float: left; margin-right: 10px;"
+      width="700"/>
+     
+### Cell Trajectory Tracking in Video     
+<img src="images/5.png"
+      alt="Home Screen"
+      style="float: left; margin-right: 10px;"
+      width="400"/>     
+      
+### Trajectory Mapping     
+<img src="images/5.png"
+      alt="Home Screen"
+      style="float: left; margin-right: 10px;"
+      width="400"/>  
