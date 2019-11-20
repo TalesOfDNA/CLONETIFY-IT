@@ -32,7 +32,7 @@ From Terminal: python Gui2A.py
       style="float: left; margin-right: 10px;"
       width="700"/>
       
-### Cell Counting in Video HD     
+### Cell Counting in HD Video      
 <img src="images/3.png"
       alt="Home Screen"
       style="float: left; margin-right: 10px;"
