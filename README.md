@@ -38,7 +38,7 @@ From Terminal: python Gui2A.py
       style="float: left; margin-right: 10px;"
       width="700"/>
 
-### Cell Tagging     
+### Cell Detection and Tagging     
 <img src="images/4.png"
       alt="Home Screen"
       style="float: left; margin-right: 10px;"
@@ -51,7 +51,7 @@ From Terminal: python Gui2A.py
       width="400"/>     
       
 ### Trajectory Mapping     
-<img src="images/5.png"
+<img src="images/6.png"
       alt="Home Screen"
       style="float: left; margin-right: 10px;"
       width="400"/>  
