@@ -2,9 +2,9 @@
 
 ### Created by Mayra Banuelos @TalesOfDNA
 
-### Researcher at Brown University
+#### Research Assistant at Brown University
 
-### Post-Bac Researcher at San Francisco State University
+#### Post-Bac Researcher at San Francisco State University
 
 In order to run this program you need to install PyQt4 and all its dependencies, Numpy, Matplotlib, Scipy, OpenCV, NdImage, Imutils 
 
