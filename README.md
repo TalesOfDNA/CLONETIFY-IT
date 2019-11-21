@@ -20,7 +20,11 @@ You can run this python script from terminal but you will need to install the fo
   - Imutils 
 
 ## Running the Program
-From Terminal: python Gui2A.py. Sample videos and images are provided.
+Copy all files to the same directory. 
+
+From Terminal: python Gui2A.py 
+
+Sample images are provided.
 
 ## User Interface 
 <img src="images/1.png"
